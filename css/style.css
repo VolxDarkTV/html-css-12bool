@@ -3,19 +3,18 @@
     background-color: tomato;
     border: solid white 1px;
     min-height: 50px;
-    display: flex;
+    /* display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; */
+    text-align: center;
     padding: 10px;
 }
 div.row > .col-6 .row .col-2{
     background-color: blueviolet;
 }
 div.row > .col-6 .row .col-8{
-    padding: 0 170px;
     background-color: blueviolet;
 }
 div.row > .col-6 .row .col-6{
-    padding: 10px 100px;
     background-color: blueviolet;
 }
