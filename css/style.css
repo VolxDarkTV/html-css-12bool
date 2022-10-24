@@ -2,5 +2,9 @@
 [class*="col"] {
     background-color: tomato;
     border: solid white 1px;
-    min-height: 100px;
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
 }
